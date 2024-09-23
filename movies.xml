@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/css" href="movies.css" ?>
+
+<movies>
+    <movie id="one">
+        <poster id = "firstPoster"></poster>
+        <title>Saw</title>
+        <year>2004</year>
+        <genre>Horror - Mystery</genre>
+        <rating>7.6/10</rating>
+        <director>James Wan</director>
+        <mainActors>
+            <actor actorId="1">Leigh Whannell</actor>
+            <actor actorId="2">Leigh Whannell</actor>
+            <actor actorId="3">Leigh Whannell</actor>
+        </mainActors>
+        <stars>⭐⭐⭐⭐</stars>
+        <synopsis>
+            <![CDATA[ <p>Two strangers, freelance photographer Adam Stanheight and Dr. Lawrence Gordon, awaken in a dilapidated bathroom with no memory of how they ended up there. Both men find a tape recording each in their pockets, and not long after listening to them, realize they have been trapped in a "game" perpetrated by the infamous man known as Jigsaw. Escape seems unlikely at first, but Adam and Lawrence soon realize they may have a chance. But at what cost? And are they alone?</p> ]]>
+        </synopsis>
+        <review>
+            <![CDATA[<p>Amazing and the director being James Wan, I watched every movie he's made, all horror all popular all an original concept, and although Saw is his most popular my favorite of his is Dead Silence, the Tongue Ripper movie, because I can tell you this much getting your tongue ripped out is definitely a new concept and how about chewing up your own tongue in your mouth.</p> ]]>
+        </review>
+    </movie>
+
+    <movie id="two">
+        <title>Eternal Sunshine of the Spotless Mind</title>
+        <year>2004</year>
+        <genre>Dark Romance</genre>
+        <rating>R</rating>
+        <director>Michel Gondry</director>
+        <mainActors>
+            <actor actorId="1">Jim Carrey</actor>
+            <actor actorId="2">Kate Winslet</actor>
+            <actor actorId="3">Tom Wilkinson</actor>
+        </mainActors>
+        <stars>&#9734;&#9734;&#9734;&#9734;&#9734; ⭐️⭐️⭐️⭐️⭐️</stars>
+        <synopsis>
+            <![CDATA[When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.]]>
+        </synopsis>
+        <review>
+            <![CDATA[The first time I saw this movie I found it confusing, a little artsy for my taste and I didn't get it. But I didn't come in here to give it a 1 point rating or a damning review just because I didn't get it. It would be kind of stupid to pass judgement on a film that I didn't fully understand Some years later I watched it for the second time. My ex had just left me, and I don't remember how and why I came by this movie again. But the second time I got it. And how life would be like a bleak dessert, frozen in time, in the eternal sunshine of a spotless mind. sAnd after watching it a second time I felt hopeful again.]]>
+        </review>
+    </movie>
+
+    <movie id="three">
+        <title></title>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <director></director>
+        <mainActors>
+            <actor actorId="1"></actor>
+            <actor actorId="2"></actor>
+            <actor actorId="3"></actor>
+        </mainActors>
+        <stars></stars>
+        <synopsis>
+            <![CDATA[ ]]>
+        </synopsis>
+        <review>
+            <![CDATA[ ]]>
+        </review>
+    </movie>
+</movies>
